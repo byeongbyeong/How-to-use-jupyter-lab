@@ -4,11 +4,13 @@
 
 https://www.python.org/downloads/ 파이썬 설치 (https://blog.naver.com/if112/222263349407) 3.9버전 설치
 
-cmd / iTerm / terminal pip install jupyterlab 회사 서버보안 때문에 안되면 pip --trusted-host pypi.org --trusted-host files.pythonhosted.org install <라이브러리jupyterlab(다받을거)>
+cmd / iTerm / terminal
+-> pip install jupyterlab 회사 서버보안 때문에 안되면 pip --trusted-host pypi.org --trusted-host files.pythonhosted.org install <라이브러리jupyterlab(다받을거)>
 
 설치완료후 바탕화면에 파이썬 폴더 만들고 폴더내에서 shift 키 우른 채 왼쪽 클릭하여 파워셀 실행 jupyter lab 파이썬 폴더에 저장됌.
 
 설치완료후 cmd 에 jupyter lab 대신 저장경로 설정
+
 
 파이토치 수동설치 https://download.pytorch.org/whl/torch/ cu116-cp39 (ctrl+F) 제일 밑에거 윈도우용 https://download.pytorch.org/whl/torchvision/ https://download.pytorch.org/whl/torchaudio/ 링크 클릭 설치
 
